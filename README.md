@@ -1,2 +1,0 @@
-# osmapi
-OSM APIs
